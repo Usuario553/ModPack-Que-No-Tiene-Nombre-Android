@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OSWALD_fase1alt.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IDLE FASE 10000" x="2" y="2" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10001" x="444" y="2" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10002" x="886" y="2" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10003" x="886" y="2" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10004" x="1328" y="2" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10005" x="1328" y="2" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10006" x="1770" y="2" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10007" x="2212" y="2" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10008" x="2654" y="2" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10009" x="2654" y="2" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10010" x="3096" y="2" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10011" x="3538" y="2" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10012" x="2" y="779" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10013" x="444" y="779" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10014" x="886" y="779" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10015" x="444" y="779" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10016" x="1328" y="779" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10017" x="1328" y="779" width="437" height="772"/>
+	<SubTexture name="IDLE FASE 10018" x="1770" y="779" width="437" height="772"/>
+	<SubTexture name="down_gh0000" x="2212" y="779" width="717" height="713"/>
+	<SubTexture name="down_gh0001" x="2212" y="779" width="717" height="713"/>
+	<SubTexture name="down_gh0002" x="2934" y="779" width="717" height="713"/>
+	<SubTexture name="down_gh0003" x="2934" y="779" width="717" height="713"/>
+	<SubTexture name="down_gh0004" x="2" y="1556" width="717" height="713"/>
+	<SubTexture name="down_gh0005" x="724" y="1556" width="717" height="713"/>
+	<SubTexture name="down_gh0006" x="724" y="1556" width="717" height="713"/>
+	<SubTexture name="down_gh0007" x="724" y="1556" width="717" height="713"/>
+	<SubTexture name="down_gh0008" x="724" y="1556" width="717" height="713"/>
+	<SubTexture name="left_gh0000" x="1446" y="1556" width="768" height="805"/>
+	<SubTexture name="left_gh0001" x="1446" y="1556" width="768" height="805"/>
+	<SubTexture name="left_gh0002" x="2219" y="1556" width="768" height="805"/>
+	<SubTexture name="left_gh0003" x="2219" y="1556" width="768" height="805"/>
+	<SubTexture name="left_gh0004" x="2992" y="1556" width="768" height="805"/>
+	<SubTexture name="left_gh0005" x="2992" y="1556" width="768" height="805"/>
+	<SubTexture name="left_gh0006" x="2" y="2366" width="768" height="805"/>
+	<SubTexture name="left_gh0007" x="2" y="2366" width="768" height="805"/>
+	<SubTexture name="left_gh0008" x="2" y="2366" width="768" height="805"/>
+	<SubTexture name="left_gh0009" x="2" y="2366" width="768" height="805"/>
+	<SubTexture name="right_gh0000" x="775" y="2366" width="704" height="684"/>
+	<SubTexture name="right_gh0001" x="775" y="2366" width="704" height="684"/>
+	<SubTexture name="right_gh0002" x="1484" y="2366" width="704" height="684"/>
+	<SubTexture name="right_gh0003" x="1484" y="2366" width="704" height="684"/>
+	<SubTexture name="right_gh0004" x="2193" y="2366" width="704" height="684"/>
+	<SubTexture name="right_gh0005" x="2193" y="2366" width="704" height="684"/>
+	<SubTexture name="right_gh0006" x="2902" y="2366" width="704" height="684"/>
+	<SubTexture name="right_gh0007" x="2902" y="2366" width="704" height="684"/>
+	<SubTexture name="right_gh0008" x="2902" y="2366" width="704" height="684"/>
+	<SubTexture name="right_gh0009" x="2902" y="2366" width="704" height="684"/>
+	<SubTexture name="right_gh0010" x="2902" y="2366" width="704" height="684"/>
+	<SubTexture name="up_gh0000" x="2" y="3176" width="649" height="862"/>
+	<SubTexture name="up_gh0001" x="2" y="3176" width="649" height="862"/>
+	<SubTexture name="up_gh0002" x="656" y="3176" width="649" height="862"/>
+	<SubTexture name="up_gh0003" x="656" y="3176" width="649" height="862"/>
+	<SubTexture name="up_gh0004" x="1310" y="3176" width="649" height="862"/>
+	<SubTexture name="up_gh0005" x="1310" y="3176" width="649" height="862"/>
+	<SubTexture name="up_gh0006" x="1310" y="3176" width="649" height="862"/>
+	<SubTexture name="up_gh0007" x="1310" y="3176" width="649" height="862"/>
+	<SubTexture name="up_gh0008" x="1310" y="3176" width="649" height="862"/>
+</TextureAtlas>
