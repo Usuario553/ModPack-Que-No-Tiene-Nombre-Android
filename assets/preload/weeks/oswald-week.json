@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"despair",
+			"wistfulness",
+			[
+				83,
+				86,
+				80
+			]
+		],
+		[
+			"despondency",
+			"dejection",
+			[
+				63,
+				66,
+				69
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "elpp",
+	"difficulties": "D-Sides",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "chupame el pito",
+	"weekName": "xd",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

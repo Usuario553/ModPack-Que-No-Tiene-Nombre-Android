@@ -1,0 +1,32 @@
+{
+	"storyName": "Cassette Goon",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "goon",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Night-Lights",
+			"goon",
+			[
+				195,
+				53,
+				113
+			]
+		]
+	],
+	"weekCharacters": [
+		"goon",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

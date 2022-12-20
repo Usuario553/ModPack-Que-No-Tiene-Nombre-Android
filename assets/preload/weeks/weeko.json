@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Untold-loneliness",
+			"Oswald",
+			[
+				83,
+				86,
+				80
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "D-Sides",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "oswald",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
