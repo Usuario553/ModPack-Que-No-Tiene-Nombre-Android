@@ -1,21 +1,49 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Menu_Spooky_Kids.png">
-	<!-- Created with Adobe Animate version 21.0.1.37179 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="M Spooky Kids Idle0000" x="0" y="0" width="176" height="253" pivotX="22.95" pivotY="0" frameX="-22" frameY="0" frameWidth="226" frameHeight="253"/>
-	<SubTexture name="M Spooky Kids Idle0001" x="0" y="0" width="176" height="253" frameX="-22" frameY="0" frameWidth="226" frameHeight="253"/>
-	<SubTexture name="M Spooky Kids Idle0002" x="180" y="0" width="175" height="250" frameX="-24" frameY="-3" frameWidth="226" frameHeight="253"/>
-	<SubTexture name="M Spooky Kids Idle0003" x="180" y="0" width="175" height="250" frameX="-24" frameY="-3" frameWidth="226" frameHeight="253"/>
-	<SubTexture name="M Spooky Kids Idle0004" x="359" y="0" width="165" height="224" frameX="-35" frameY="-27" frameWidth="226" frameHeight="253"/>
-	<SubTexture name="M Spooky Kids Idle0005" x="359" y="0" width="165" height="224" frameX="-35" frameY="-27" frameWidth="226" frameHeight="253"/>
-	<SubTexture name="M Spooky Kids Idle0006" x="528" y="0" width="164" height="229" frameX="-35" frameY="-23" frameWidth="226" frameHeight="253"/>
-	<SubTexture name="M Spooky Kids Idle0007" x="528" y="0" width="164" height="229" frameX="-35" frameY="-23" frameWidth="226" frameHeight="253"/>
-	<SubTexture name="M Spooky Kids Idle0008" x="696" y="0" width="226" height="245" frameX="0" frameY="-7" frameWidth="226" frameHeight="253"/>
-	<SubTexture name="M Spooky Kids Idle0009" x="696" y="0" width="226" height="245" frameX="0" frameY="-7" frameWidth="226" frameHeight="253"/>
-	<SubTexture name="M Spooky Kids Idle0010" x="0" y="257" width="221" height="242" frameX="-3" frameY="-9" frameWidth="226" frameHeight="253"/>
-	<SubTexture name="M Spooky Kids Idle0011" x="0" y="257" width="221" height="242" frameX="-3" frameY="-9" frameWidth="226" frameHeight="253"/>
-	<SubTexture name="M Spooky Kids Idle0012" x="359" y="0" width="165" height="224" frameX="-35" frameY="-27" frameWidth="226" frameHeight="253"/>
-	<SubTexture name="M Spooky Kids Idle0013" x="359" y="0" width="165" height="224" frameX="-35" frameY="-27" frameWidth="226" frameHeight="253"/>
-	<SubTexture name="M Spooky Kids Idle0014" x="528" y="0" width="164" height="229" frameX="-35" frameY="-23" frameWidth="226" frameHeight="253"/>
-	<SubTexture name="M Spooky Kids Idle0015" x="528" y="0" width="164" height="229" frameX="-35" frameY="-23" frameWidth="226" frameHeight="253"/>
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Selever_Angry.png">
+<SubTexture name="down0000" x="0" y="3024" width="606" height="691" frameX="0" frameY="0" frameWidth="606" frameHeight="691" />
+<SubTexture name="down0001" x="0" y="3024" width="606" height="691" frameX="0" frameY="0" frameWidth="606" frameHeight="691" />
+<SubTexture name="down0002" x="3349" y="0" width="598" height="697" frameX="0" frameY="0" frameWidth="598" frameHeight="697" />
+<SubTexture name="down0003" x="3349" y="0" width="598" height="697" frameX="0" frameY="0" frameWidth="598" frameHeight="697" />
+<SubTexture name="downglow0000" x="2362" y="2293" width="606" height="704" frameX="0" frameY="0" frameWidth="606" frameHeight="704" />
+<SubTexture name="downglow0001" x="2362" y="2293" width="606" height="704" frameX="0" frameY="0" frameWidth="606" frameHeight="704" />
+<SubTexture name="downglow0002" x="1764" y="2293" width="598" height="710" frameX="0" frameY="0" frameWidth="598" frameHeight="710" />
+<SubTexture name="downglow0003" x="1764" y="2293" width="598" height="710" frameX="0" frameY="0" frameWidth="598" frameHeight="710" />
+<SubTexture name="idle0000" x="1185" y="1539" width="598" height="750" frameX="0" frameY="0" frameWidth="598" frameHeight="750" />
+<SubTexture name="idle0001" x="1185" y="1539" width="598" height="750" frameX="0" frameY="0" frameWidth="598" frameHeight="750" />
+<SubTexture name="idle0002" x="588" y="1539" width="597" height="752" frameX="0" frameY="0" frameWidth="597" frameHeight="752" />
+<SubTexture name="idle0003" x="588" y="1539" width="597" height="752" frameX="0" frameY="0" frameWidth="597" frameHeight="752" />
+<SubTexture name="idle0004" x="0" y="1539" width="588" height="754" frameX="0" frameY="0" frameWidth="588" frameHeight="754" />
+<SubTexture name="idle0005" x="0" y="1539" width="588" height="754" frameX="0" frameY="0" frameWidth="588" frameHeight="754" />
+<SubTexture name="idle0006" x="2175" y="0" width="578" height="756" frameX="0" frameY="0" frameWidth="578" frameHeight="756" />
+<SubTexture name="idle0007" x="2175" y="0" width="578" height="756" frameX="0" frameY="0" frameWidth="578" frameHeight="756" />
+<SubTexture name="idle0008" x="1608" y="0" width="567" height="757" frameX="0" frameY="0" frameWidth="567" frameHeight="757" />
+<SubTexture name="idle0009" x="1608" y="0" width="567" height="757" frameX="0" frameY="0" frameWidth="567" frameHeight="757" />
+<SubTexture name="idle0010" x="532" y="778" width="567" height="759" frameX="0" frameY="0" frameWidth="567" frameHeight="759" />
+<SubTexture name="idle0011" x="532" y="778" width="567" height="759" frameX="0" frameY="0" frameWidth="567" frameHeight="759" />
+<SubTexture name="idle0012" x="532" y="778" width="567" height="759" frameX="0" frameY="0" frameWidth="567" frameHeight="759" />
+<SubTexture name="idle0013" x="532" y="778" width="567" height="759" frameX="0" frameY="0" frameWidth="567" frameHeight="759" />
+<SubTexture name="left0000" x="1184" y="2293" width="580" height="726" frameX="0" frameY="0" frameWidth="580" frameHeight="726" />
+<SubTexture name="left0001" x="1184" y="2293" width="580" height="726" frameX="0" frameY="0" frameWidth="580" frameHeight="726" />
+<SubTexture name="left0002" x="2175" y="756" width="568" height="729" frameX="0" frameY="0" frameWidth="568" frameHeight="729" />
+<SubTexture name="left0003" x="2175" y="756" width="568" height="729" frameX="0" frameY="0" frameWidth="568" frameHeight="729" />
+<SubTexture name="leftglow0000" x="0" y="2293" width="588" height="731" frameX="0" frameY="0" frameWidth="588" frameHeight="731" />
+<SubTexture name="leftglow0001" x="0" y="2293" width="588" height="731" frameX="0" frameY="0" frameWidth="588" frameHeight="731" />
+<SubTexture name="leftglow0002" x="2753" y="1479" width="574" height="736" frameX="0" frameY="0" frameWidth="574" frameHeight="736" />
+<SubTexture name="leftglow0003" x="2753" y="1479" width="574" height="736" frameX="0" frameY="0" frameWidth="574" frameHeight="736" />
+<SubTexture name="right0000" x="588" y="2293" width="596" height="731" frameX="0" frameY="0" frameWidth="596" frameHeight="731" />
+<SubTexture name="right0001" x="588" y="2293" width="596" height="731" frameX="0" frameY="0" frameWidth="596" frameHeight="731" />
+<SubTexture name="right0002" x="2753" y="742" width="583" height="737" frameX="0" frameY="0" frameWidth="583" frameHeight="737" />
+<SubTexture name="right0003" x="2753" y="742" width="583" height="737" frameX="0" frameY="0" frameWidth="583" frameHeight="737" />
+<SubTexture name="rightglow0000" x="2753" y="0" width="596" height="742" frameX="0" frameY="0" frameWidth="596" frameHeight="742" />
+<SubTexture name="rightglow0001" x="2753" y="0" width="596" height="742" frameX="0" frameY="0" frameWidth="596" frameHeight="742" />
+<SubTexture name="rightglow0002" x="1783" y="1539" width="583" height="747" frameX="0" frameY="0" frameWidth="583" frameHeight="747" />
+<SubTexture name="rightglow0003" x="1783" y="1539" width="583" height="747" frameX="0" frameY="0" frameWidth="583" frameHeight="747" />
+<SubTexture name="up0000" x="1070" y="0" width="538" height="763" frameX="0" frameY="0" frameWidth="538" frameHeight="763" />
+<SubTexture name="up0001" x="1070" y="0" width="538" height="763" frameX="0" frameY="0" frameWidth="538" frameHeight="763" />
+<SubTexture name="up0002" x="0" y="778" width="532" height="761" frameX="0" frameY="0" frameWidth="532" frameHeight="761" />
+<SubTexture name="up0003" x="0" y="778" width="532" height="761" frameX="0" frameY="0" frameWidth="532" frameHeight="761" />
+<SubTexture name="upglow0000" x="0" y="0" width="538" height="778" frameX="0" frameY="0" frameWidth="538" frameHeight="778" />
+<SubTexture name="upglow0001" x="0" y="0" width="538" height="778" frameX="0" frameY="0" frameWidth="538" frameHeight="778" />
+<SubTexture name="upglow0002" x="538" y="0" width="532" height="776" frameX="0" frameY="0" frameWidth="532" frameHeight="776" />
+<SubTexture name="upglow0003" x="538" y="0" width="532" height="776" frameX="0" frameY="0" frameWidth="532" frameHeight="776" />
 </TextureAtlas>

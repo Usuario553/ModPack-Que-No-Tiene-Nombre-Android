@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goonweekremaa.png">
+<SubTexture name="idle0000" x="0" y="0" width="475" height="1189" frameX="-9" frameY="0" frameWidth="501" frameHeight="1189" />
+</TextureAtlas>

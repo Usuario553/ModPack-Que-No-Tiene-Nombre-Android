@@ -1,11 +1,10 @@
 {
-	
-	"image": "Menu_Dad",
+	"confirm_anim": "M Selever idle",
+	"idle_anim": "M Selever idle",
 	"position": [
-		0,
-		0
+		250,
+		200
 	],
-	"scale": 1,
-	"idle_anim": "M Dad Idle",
-	"confirm_anim": "M Dad Idle"
+	"scale": 0.5,
+	"image": "Menu_Dad"
 }
