@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				176
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "OSWALD IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				247
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Oswald Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				410
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Oswald Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				188
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "OSWALD RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-109,
+				206
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Oswald Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oswald_dejecttion-crazy",
+	"position": [
+		-190,
+		300
+	],
+	"healthicon": "dejection",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-50,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

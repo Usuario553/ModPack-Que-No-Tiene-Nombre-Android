@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				266
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE FASE 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				212
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down_gh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				152,
+				300
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left_gh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				184
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right_gh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				362
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up_gh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OSWALD_fase1alt",
+	"position": [
+		-210,
+		300
+	],
+	"healthicon": "wistfulness",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		-100,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
